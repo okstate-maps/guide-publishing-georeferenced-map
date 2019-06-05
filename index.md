@@ -53,6 +53,7 @@ ArcGIS Pro allows completed projects to be published online or shared with other
 *Note: Publishing may take some time. Once it is a finished, a pop up should appear that says publishing was successfull.*
 
 ## Conclusion
+ArcGIS Pro offers numerous options when it comes to sharing or publishing projects.
 
 ## Further Reading/Resources
 
