@@ -34,7 +34,7 @@ ArcGIS Pro allows completed projects to be published online or shared with other
 
 ![Configuration](images/Configuration.PNG)
 
-12. Set the *Levels of Detail* and ensure that the **estimated cache** is less than 1GB.
+12. Set the *Levels of Detail* and ensure that the **estimated cache size** is less than 1GB.
 
 ![Levels of Detail](images/LevelsOfDetail.PNG)
 
