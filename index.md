@@ -50,7 +50,7 @@ ArcGIS Pro allows completed projects to be published online or shared with other
 
 ![Publish](images/Publish.PNG)
 
-*Note: Publishing may take some time. Once it is a finished, a pop up should appear that says publishing was successfull.
+*Note: Publishing may take some time. Once it is a finished, a pop up should appear that says publishing was successfull.*
 
 ## Conclusion
 
